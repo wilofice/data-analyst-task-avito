@@ -1,1 +1,1 @@
-# data-analyst-task-avito
+# data-analyst-notebook
